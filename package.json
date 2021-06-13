@@ -1,6 +1,6 @@
 {
   "name": "starter-project",
-  "homepage": "https://neoaman.github.io/static-site/",
+  "homepage": "https://static-site-one.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
